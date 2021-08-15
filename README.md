@@ -1,6 +1,4 @@
 # kubernetes
 
 
-xczC
-xc
-C
+CKA Trainnig
